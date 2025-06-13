@@ -1,3 +1,2 @@
 tkinter
 symspellpy==6.7.6
-os 
