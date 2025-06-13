@@ -52,7 +52,18 @@ See real-time word and character counts while typing.
 ---
 
 ## 🚀 Getting Started
+## ✅ Instructions to Use:
+- Create a file named requirements.txt in the same folder as main.py.
 
+- Paste the line above into it.
+
+- Anyone can now install the required package with:
+
+```bash
+
+pip install -r requirements.txt
+```
+---
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/AI-Autocorrect-Pro.git
